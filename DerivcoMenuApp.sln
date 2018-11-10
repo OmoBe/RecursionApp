@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivcoMenuApp", "DerivcoMenuApp\DerivcoMenuApp.csproj", "{16211BE1-6568-4388-A5A0-E56ABAC512EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DerivcoMenu", "DerivcoMenu\DerivcoMenu.csproj", "{F149400F-7992-4830-AB51-9DF52A9E1E46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16211BE1-6568-4388-A5A0-E56ABAC512EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16211BE1-6568-4388-A5A0-E56ABAC512EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16211BE1-6568-4388-A5A0-E56ABAC512EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16211BE1-6568-4388-A5A0-E56ABAC512EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F149400F-7992-4830-AB51-9DF52A9E1E46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F149400F-7992-4830-AB51-9DF52A9E1E46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F149400F-7992-4830-AB51-9DF52A9E1E46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F149400F-7992-4830-AB51-9DF52A9E1E46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7819C23C-8CC6-45D2-B182-DA0167BA6FB2}
+	EndGlobalSection
+EndGlobal
