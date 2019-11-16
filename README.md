@@ -1,3 +1,3 @@
 # RecursionApp
-Recursion App
+Recursion App.
 Demonstrating Binary tree traversal
