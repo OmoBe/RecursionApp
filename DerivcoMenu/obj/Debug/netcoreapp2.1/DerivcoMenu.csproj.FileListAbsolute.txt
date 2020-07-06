@@ -1,9 +1,0 @@
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\DerivcoMenu.csprojAssemblyReference.cache
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\DerivcoMenu.csproj.CoreCompileInputs.cache
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\DerivcoMenu.AssemblyInfoInputs.cache
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\DerivcoMenu.AssemblyInfo.cs
-C:\Projects\DerivcoMenuApp\DerivcoMenu\bin\Debug\netcoreapp2.1\Derivco.Menu.deps.json
-C:\Projects\DerivcoMenuApp\DerivcoMenu\bin\Debug\netcoreapp2.1\Derivco.Menu.dll
-C:\Projects\DerivcoMenuApp\DerivcoMenu\bin\Debug\netcoreapp2.1\Derivco.Menu.pdb
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\Derivco.Menu.dll
-C:\Projects\DerivcoMenuApp\DerivcoMenu\obj\Debug\netcoreapp2.1\Derivco.Menu.pdb
